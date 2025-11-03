@@ -62,6 +62,8 @@ These features manage control flow and code structure:
 
 ## Execution and Walkthrough Video
 
+https://drive.google.com/file/d/14Bdfd30_bI7x0gC0KydAvAMsNxmJld3H/view?usp=drive_link
+
 A code walkthrough video is submitted alongside this README. The video explains the following:
 
 1.  **Inputs:** Defines the source data (either hard-coded or from a file) used to execute the pipeline in the Colab notebook.
